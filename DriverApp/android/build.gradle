@@ -8,6 +8,8 @@ buildscript {
         targetSdkVersion = 29
         playServicesVersion = "17.0.0" // or find latest version
         androidMapsUtilsVersion = "2.2.0"
+                ndkVersion = "21.2.6472646"
+
     }
     repositories {
         google()
